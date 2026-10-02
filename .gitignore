@@ -1,0 +1,4 @@
+.build/
+TypelessLocal.app/
+.DS_Store
+*.log

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.raphaeliksil.typelesslocal</string>
+    <key>CFBundleName</key>
+    <string>TypelessLocal</string>
+    <key>CFBundleDisplayName</key>
+    <string>TypelessLocal</string>
+    <key>CFBundleExecutable</key>
+    <string>TypelessLocal</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>LSMinimumSystemVersion</key>
+    <string>26.0</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>TypelessLocal a besoin du micro pour transcrire ta dictée localement.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>TypelessLocal utilise la reconnaissance vocale on-device de macOS pour transcrire ta dictée.</string>
+</dict>
+</plist>
